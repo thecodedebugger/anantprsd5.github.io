@@ -31,15 +31,8 @@ categories: posts
 
 If page contains `active` tag, it will be show on site menu.
 
-**Archive**
-
-Archive page is sorting posts by tags. No more than one tag in one post.
-
 Good:
 
-```
-tags : ['front-end']
-```
 
 Bad:
 
