@@ -43,9 +43,6 @@ active: about
 
 Good:
 
-```
-tags : ['front-end']
-```
 
 Bad:
 
