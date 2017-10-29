@@ -31,15 +31,6 @@ categories: posts
 
 If page contains `active` tag, it will be show on site menu.
 
-```
----
-layout: page
-title: "About"
-permalink: /about/
-active: about
----
-```
-
 **Archive**
 
 Archive page is sorting posts by tags. No more than one tag in one post.
