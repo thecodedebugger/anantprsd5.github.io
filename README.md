@@ -40,9 +40,6 @@ active: about
 ---
 ```
 
-**Archive**
-
-Archive page is sorting posts by tags. No more than one tag in one post.
 
 Good:
 
